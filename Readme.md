@@ -31,7 +31,7 @@ This project is a **Go web server** built with the `chi` router, connected to a 
 
 ### Prerequisites
 
-- [Go] 
+- [Go]()
 - [Docker](https://www.docker.com/products/docker-desktop)  
 - PostgreSQL database  
 
