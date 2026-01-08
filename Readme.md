@@ -31,14 +31,14 @@ This project is a **Go web server** built with the `chi` router, connected to a 
 
 ### Prerequisites
 
-- [Go](https://golang.org/dl/) ≥ 1.21  
+- [Go] 
 - [Docker](https://www.docker.com/products/docker-desktop)  
-- PostgreSQL database (or you can use Docker for Postgres)
+- PostgreSQL database  
 
 ---
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/go-webserver.git
+git clone https://github.com/sukhad123/Microservice_GoLang.git
 cd go-webserver
